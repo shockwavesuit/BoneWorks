@@ -1,14 +1,7 @@
 ﻿using MelonLoader;
-using CustomItemsFramework;
 using UnityEngine;
-using System.Collections.Generic;
 using ModThatIsNotMod.MonoBehaviours;
-using RootMotion.FinalIK;
 using ModThatIsNotMod;
-using System.Reflection;
-using UnhollowerBaseLib;
-using UnhollowerBaseLib.Attributes;
-using HarmonyLib;
 using StressLevelZero.VRMK;
 namespace ShockwaveBoneWorks
 {
